@@ -1,0 +1,1 @@
+Guess-My-Number is a game where player try to guess a random number.
